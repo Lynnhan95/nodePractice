@@ -13,6 +13,6 @@ Or
 
 ## Add portal
 
-1. Start server.js，添加 if else
+1. Start server.js，add if else
 2. Rerun node server.js 8888
 
